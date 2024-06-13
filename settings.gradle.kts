@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Range Slider"
 include(":app")
+include(":range-slider")
