@@ -1,10 +1,10 @@
-# RangeSlider
+# Range Slider
 
 **RangeSlider** is a custom component for Jetpack Compose that enables users to select a range of values with customizable thumbs and track colors. It provides smooth, responsive interactions and real-time updates on value changes, making it ideal for applications requiring range selection, such as price filters and time selectors.
 
 ## Installation
 
-Add the following dependency to your project's `build.gradle.kts` file:
+Add the following dependency to your app module's `build.gradle.kts` file:
 
 ```kotlin
 implementation("in.alfageeks:range-slider:0.0.2")
